@@ -2,7 +2,7 @@
 // import { PDFViewer } from "@react-pdf/renderer";
 // import QRCode from "react-qr-code";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
+//import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
 import Qr_code_col from "./qrcodecol";
 // import html2canvas from "html2canvas";
 // import jsPDF from "jspdf";
