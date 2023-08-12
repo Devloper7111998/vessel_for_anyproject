@@ -46,10 +46,10 @@ iframe {
 
 .code_title {
   color: black;
-  font-size: 5px;
+  font-size: 6px;
   font-weight: bolder;
   background-color: white;
-  width: 8px;
+  width: 10px;
   position: relative;
-  transform: translate(15px, 23px);
+  transform: translate(14px, 24px);
 }
